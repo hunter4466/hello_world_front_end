@@ -31,7 +31,7 @@ In this project I developed a simple app that consumes a hello_world_API to disp
 
 2. Start the local webpack server
    ```sh
-   run start
+   npm run start
    ```
 
 ## Authors

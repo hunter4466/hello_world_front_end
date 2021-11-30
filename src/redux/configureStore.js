@@ -3,11 +3,11 @@ import {
 } from 'redux';
 // ----------- STORE IMPORTS -----------
 import {
- // -------------- reducers ---------------
- messagesReducer,
- // -------------- actions ----------------
- // ------------- middlewares -------------
- fetchMessagesFromAPIMiddleware,
+  // -------------- reducers ---------------
+  messagesReducer,
+  // -------------- actions ----------------
+  // ------------- middlewares -------------
+  fetchMessagesFromAPIMiddleware,
 } from './app/app';
 
 const reducer = combineReducers({
