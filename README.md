@@ -14,6 +14,8 @@ In this project I developed a simple app that consumes a hello_world_API to disp
 
 ### Live preview
 
+  ![screenshot](./src/images/screenshots/preview1.png) 
+
 ### Installation
 
 1. Clone the repo
