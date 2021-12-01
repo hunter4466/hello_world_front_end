@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchMessages } from './redux/app/app';
+import Greetings from './components/Greetings';
 
 const App = () => {
   const state = useSelector((state) => state.messagesReducer);
@@ -10,9 +11,7 @@ const App = () => {
   }, []);
   return (
     <div>
-      Greetings:
-      {' '}
-      {state.message}
+      <Greetings greeting={state.message} />
     </div>
   );
 };
