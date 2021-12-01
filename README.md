@@ -12,9 +12,15 @@ In this project I developed a simple app that consumes a hello_world_API to disp
 
 ## Getting Started
 
-### Live preview
+### Screenshots
 
   ![screenshot](./src/images/screenshots/preview1.png) 
+
+## Front preview end repo and pull request
+
+   [Link](https://github.com/hunter4466/hello_world_front_end/pull/1)
+
+   [Link](https://hello-world-fron-end.herokuapp.com/)
 
 ### Installation
 
